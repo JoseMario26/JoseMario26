@@ -9,7 +9,7 @@
 
 <hr>
 <ul>
-  <li>Acadêmica de <strong>SIS</strong></li>
+  <li>Acadêmico de <strong>SIS</strong></li>
   <li>No momento apenas estudando e focando em <strong>Orecle, MySQL, Python</strong></li>
 </ul>
 
